@@ -130,6 +130,35 @@
 
 </div>
 
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%E2%9C%A6%20TOOL%20%E2%80%94%2004-8a6d1f?style=for-the-badge&labelColor=0b3d2e"/>
+
+### Edge Ledger: is this stock-picking edge real, or just luck?
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tests](https://img.shields.io/badge/73_tests_%C2%B7_CI-0f766e?style=flat-square)
+![Write-up](https://img.shields.io/badge/Research_write--up-c8a24a?style=flat-square)
+![Apache-2.0](https://img.shields.io/badge/Apache--2.0_License-10b981?style=flat-square)
+
+</div>
+
+| Problem | What it does |
+|---|---|
+| A backtest finds an edge that is really luck | Measures the factor date by date, with a t-stat that is not inflated by overlapping returns, and a permutation test against luck |
+| The more ideas you test, the more fake winners you find | Keeps a ledger of every test; the bar to adopt an idea rises with each one registered |
+| An idea that worked on past data fails on new data | A purged walk-forward check: does the result hold on dates the idea never saw? |
+
+Used on my own stock screener: **70 ideas tested, 36 failed, none passed every check.** The README explains what went wrong and how to avoid it.
+
+<div align="center">
+
+[![Read the write-up](https://img.shields.io/badge/Read_the_write--up-edge--ledger-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamoilp/edge-ledger)
+
+</div>
+
 ### Also built
 
 | Project | What it is |
