@@ -105,7 +105,7 @@
 
 <img src="https://img.shields.io/badge/%E2%9C%A6%20TOOL%20%E2%80%94%2003-1d8a7c?style=for-the-badge&labelColor=0b3d2e"/>
 
-### WIWI: is this deal worth winning?
+### Worth Winning: is this deal worth winning?
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Live](https://img.shields.io/badge/Live_in_your_browser-0f766e?style=flat-square)
@@ -116,15 +116,15 @@
 
 | Problem | What it does |
 |---|---|
-| Deals get chased on excitement, pride or rivalry | Scores the deal on **realistic payoff vs full cost**, including opportunity cost and an "ego tax" |
+| Deals get chased on excitement, pride or rivalry | Three checks from D. Murali's W-Trilogy: **WIFI** catches hype before you commit, **WIDI** spots sunk-cost momentum mid-way, and the **WIWI score** weighs realistic payoff vs full cost, including an "ego tax" |
 | Nobody checks what chance of success they actually need | Shows the **break-even chance** next to your honest estimate |
-| Bad projects keep growing because no one set a limit | A red-flag check, a written **stop rule**, and a share link or PDF to send to a partner |
+| Bad projects keep growing because no one set a limit | A red-flag check, a written **stop rule**, a **post-mortem** for finished deals, and a share link or PDF to send to a partner |
 
 <div align="center">
 
-[![Try it live](https://img.shields.io/badge/Try_it_live-WIWI_calculator-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shamoilp.github.io/wiwi-calculator/)
+[![Try it live](https://img.shields.io/badge/Try_it_live-Worth_Winning-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shamoilp.github.io/worth-winning/)
 &nbsp;
-[![View code](https://img.shields.io/badge/View_code-wiwi--calculator-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamoilp/wiwi-calculator)
+[![View code](https://img.shields.io/badge/View_code-worth--winning-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamoilp/worth-winning)
 
 </div>
 
