@@ -109,7 +109,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Live](https://img.shields.io/badge/Live_in_your_browser-0f766e?style=flat-square)
-![Private](https://img.shields.io/badge/No_data_sent-0b3d2e?style=flat-square)
+![Free score](https://img.shields.io/badge/Free_score-0b3d2e?style=flat-square)
 ![MIT](https://img.shields.io/badge/MIT_License-10b981?style=flat-square)
 
 </div>
