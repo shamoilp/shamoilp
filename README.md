@@ -41,8 +41,8 @@
 ## 🔒 How your books stay safe
 
 - **One system per client.** Your data never shares a database with another client's.
-- **Closed months stay closed.** Once a period is locked, nobody can quietly change it.
-- **Every correction leaves a trail.** Entries are cancelled and amended, never deleted.
+- **Closed months stay closed.** Locked periods can only be reopened by an authorised user, and the change is logged.
+- **Every correction leaves a trail.** Entries are cancelled and amended, and every change is logged.
 - **Kept in the Kingdom.** Your books can run on a server inside Saudi Arabia.
 
 ---
