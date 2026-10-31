@@ -6,6 +6,8 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b3d2e?style=for-the-badge&logo=safari&logoColor=white)](https://shamoilp.github.io/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamoilp/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:shamoilp@outlook.com)
